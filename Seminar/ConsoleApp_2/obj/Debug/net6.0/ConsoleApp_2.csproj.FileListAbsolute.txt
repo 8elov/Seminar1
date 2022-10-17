@@ -1,0 +1,15 @@
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/bin/Debug/net6.0/ConsoleApp_2
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/bin/Debug/net6.0/ConsoleApp_2.deps.json
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/bin/Debug/net6.0/ConsoleApp_2.runtimeconfig.json
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/bin/Debug/net6.0/ConsoleApp_2.dll
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/bin/Debug/net6.0/ConsoleApp_2.pdb
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/obj/Debug/net6.0/ConsoleApp_2.csproj.AssemblyReference.cache
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/obj/Debug/net6.0/ConsoleApp_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/obj/Debug/net6.0/ConsoleApp_2.AssemblyInfoInputs.cache
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/obj/Debug/net6.0/ConsoleApp_2.AssemblyInfo.cs
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/obj/Debug/net6.0/ConsoleApp_2.csproj.CoreCompileInputs.cache
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/obj/Debug/net6.0/ConsoleApp_2.dll
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/obj/Debug/net6.0/refint/ConsoleApp_2.dll
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/obj/Debug/net6.0/ConsoleApp_2.pdb
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/obj/Debug/net6.0/ConsoleApp_2.genruntimeconfig.cache
+/Users/nikitabelov/Desktop/Seminars/Seminar/ConsoleApp_2/obj/Debug/net6.0/ref/ConsoleApp_2.dll
